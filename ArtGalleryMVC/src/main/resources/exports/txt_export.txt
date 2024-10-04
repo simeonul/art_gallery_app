@@ -1,0 +1,4 @@
+Id: 1, Title: The Creation of Adam, ArtistId: 1, ArtistName: Michelangelo, ArtForm: PAINTING, Year: 1512, Price: 2300000.0, IsSold: false;
+Id: 5, Title: The Transfiguration, ArtistId: 5, ArtistName: Raphael, ArtForm: PAINTING, Year: 1520, Price: 880000.0, IsSold: false;
+Id: 6, Title: David, ArtistId: 1, ArtistName: Michelangelo, ArtForm: SCULPTURE, Year: 1531, Price: 76500.0, IsSold: false;
+Id: 7, Title: Sistine Chapel, ArtistId: 1, ArtistName: Michelangelo, ArtForm: PAINTING, Year: 1490, Price: 310984.0, IsSold: true;

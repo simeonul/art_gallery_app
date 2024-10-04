@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<artPieceArtistList>
+    <artPieceArtist>
+        <Id>1</Id>
+        <Title>The Creation of Adam</Title>
+        <ArtistId>1</ArtistId>
+        <ArtistName>Michelangelo</ArtistName>
+        <ArtForm>PAINTING</ArtForm>
+        <Year>1512</Year>
+        <Price>2300000.0</Price>
+        <IsSold>false</IsSold>
+    </artPieceArtist>
+    <artPieceArtist>
+        <Id>5</Id>
+        <Title>The Transfiguration</Title>
+        <ArtistId>5</ArtistId>
+        <ArtistName>Raphael</ArtistName>
+        <ArtForm>PAINTING</ArtForm>
+        <Year>1520</Year>
+        <Price>880000.0</Price>
+        <IsSold>false</IsSold>
+    </artPieceArtist>
+    <artPieceArtist>
+        <Id>6</Id>
+        <Title>David</Title>
+        <ArtistId>1</ArtistId>
+        <ArtistName>Michelangelo</ArtistName>
+        <ArtForm>SCULPTURE</ArtForm>
+        <Year>1531</Year>
+        <Price>76500.0</Price>
+        <IsSold>false</IsSold>
+    </artPieceArtist>
+    <artPieceArtist>
+        <Id>7</Id>
+        <Title>Sistine Chapel</Title>
+        <ArtistId>1</ArtistId>
+        <ArtistName>Michelangelo</ArtistName>
+        <ArtForm>PAINTING</ArtForm>
+        <Year>1490</Year>
+        <Price>310984.0</Price>
+        <IsSold>true</IsSold>
+    </artPieceArtist>
+</artPieceArtistList>

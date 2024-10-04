@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "title": "The Creation of Adam",
+    "artistId": 1,
+    "artistName": "Michelangelo",
+    "artForm": "PAINTING",
+    "year": 1512,
+    "price": 2300000.0,
+    "sold": false
+  },
+  {
+    "id": 5,
+    "title": "The Transfiguration",
+    "artistId": 5,
+    "artistName": "Raphael",
+    "artForm": "PAINTING",
+    "year": 1520,
+    "price": 880000.0,
+    "sold": false
+  },
+  {
+    "id": 6,
+    "title": "David",
+    "artistId": 1,
+    "artistName": "Michelangelo",
+    "artForm": "SCULPTURE",
+    "year": 1531,
+    "price": 76500.0,
+    "sold": false
+  },
+  {
+    "id": 7,
+    "title": "Sistine Chapel",
+    "artistId": 1,
+    "artistName": "Michelangelo",
+    "artForm": "PAINTING",
+    "year": 1490,
+    "price": 310984.0,
+    "sold": true
+  }
+]

@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<page>
+    <visitor>
+        <english>
+            <window_title>Visitor</window_title>
+            <header_id>Id</header_id>
+            <header_title>Title</header_title>
+            <header_artist_name>Artist Name</header_artist_name>
+            <header_art_form>Art Form</header_art_form>
+            <header_year>Year</header_year>
+            <header_price>Price</header_price>
+            <search_bttn>Search Art Piece By Title</search_bttn>
+            <filter_bttn>Filter Art Pieces</filter_bttn>
+            <sort_bttn>Sort Art Pieces By Year</sort_bttn>
+            <show_bttn>Show All Art Pieces</show_bttn>
+        </english>
+
+        <french>
+            <window_title>Visiteur</window_title>
+            <header_id>Id</header_id>
+            <header_title>Titre</header_title>
+            <header_artist_name>Nom de l'artiste</header_artist_name>
+            <header_art_form>Forme d'art</header_art_form>
+            <header_year>Annee</header_year>
+            <header_price>Prix</header_price>
+            <search_bttn>Rechercher une oeuvre d'art par titre</search_bttn>
+            <filter_bttn>Filtrer les oeuvres d'art</filter_bttn>
+            <sort_bttn>Trier lesoeuvres d'art par année</sort_bttn>
+            <show_bttn>Afficher toutes les loeuvres d'art</show_bttn>
+        </french>
+
+        <spanish>
+            <window_title>Visitante</window_title>
+            <header_id>Id</header_id>
+            <header_title>Título</header_title>
+            <header_artist_name>Nombre del artist</header_artist_name>
+            <header_art_form>Forma de arte</header_art_form>
+            <header_year>Año</header_year>
+            <header_price>Precio</header_price>
+            <search_bttn>Buscar obra de arte por título</search_bttn>
+            <filter_bttn>Filtrar piezas de arte</filter_bttn>
+            <sort_bttn>Ordenar piezas de arte por año</sort_bttn>
+            <show_bttn>Mostrar todas las obras de arte</show_bttn>
+        </spanish>
+    </visitor>
+
+
+
+
+    <employee>
+        <english>
+            <window_title>Employee</window_title>
+            <header_artist_id>Id</header_artist_id>
+            <header_artist_name>Name</header_artist_name>
+            <header_artist_year>Birth Year</header_artist_year>
+            <header_artist_nationality>Nationality</header_artist_nationality>
+            <header_title>Title</header_title>
+            <header_artist_name_lbl>Artist Name</header_artist_name_lbl>
+            <header_art_form>Art Form</header_art_form>
+            <header_year>Year</header_year>
+            <header_price>Price</header_price>
+            <header_sold>Is Sold</header_sold>
+            <insert_artist>Insert Artist</insert_artist>
+            <update_artist>Update Artist</update_artist>
+            <delete_artist>Delete Artist</delete_artist>
+            <search_bttn>Search Art Piece By Title</search_bttn>
+            <filter_bttn>Filter Art Pieces</filter_bttn>
+            <sort_bttn>Sort Art Pieces By Year</sort_bttn>
+            <insert_art_piece>Insert Art Piece</insert_art_piece>
+            <update_art_piece>Update Art Piece</update_art_piece>
+            <delete_art_piece>Delete Art Piece</delete_art_piece>
+            <delete_art_piece>Sell Art Piece</delete_art_piece>
+            <export_label>Export Art Piece list as:</export_label>
+            <create_graoh_label>Create graph using:</create_graoh_label>
+            <show_bttn>Show</show_bttn>
+            <artist_id>Artist Id</artist_id>
+        </english>
+
+        <french>
+            <window_title>Employé</window_title>
+            <header_artist_id>Id</header_artist_id>
+            <header_artist_name>Nom</header_artist_name>
+            <header_artist_year>Année de naissance</header_artist_year>
+            <header_artist_year>Nationalité</header_artist_year>
+            <header_title>Titre</header_title>
+            <header_artist_name>Nom de l'artiste</header_artist_name>
+            <header_art_form>Forme d'art</header_art_form>
+            <header_year>Année</header_year>
+            <header_price>Prix</header_price>
+            <header_sold>Est vendu</header_sold>
+            <insert_artist>Insérer un artiste</insert_artist>
+            <update_artist>Mettre à jour l'artiste</update_artist>
+            <delete_artist>Supprimer l'artiste</delete_artist>
+            <search_bttn>Rechercher une œuvre d'art par titre</search_bttn>
+            <filter_bttn>Filtrer les œuvres d'art</filter_bttn>
+            <sort_bttn>Trier les œuvres d'art par année</sort_bttn>
+            <insert_art_piece>Insérer une œuvre d'art</insert_art_piece>
+            <update_art_piece>Mettre à jour l'œuvre d'art</update_art_piece>
+            <delete_art_piece>Supprimer l'œuvre d'art</delete_art_piece>
+            <delete_art_piece>Vendre l'œuvre d'art</delete_art_piece>
+            <export_label>Exporter la liste d'œuvres d'art sous forme de :</export_label>
+            <create_graoh_label>Créer un graphique en utilisant :</create_graoh_label>
+            <show_bttn>Afficher</show_bttn>
+            <artist_id>Identifiant de l'artiste</artist_id>
+        </french>
+
+        <spanish>
+            <window_title>Empleado</window_title>
+            <header_artist_id>Id</header_artist_id>
+            <header_artist_name>Nombre</header_artist_name>
+            <header_artist_year>Año de nacimiento</header_artist_year>
+            <header_artist_year>Nacionalidad</header_artist_year>
+            <header_title>Título</header_title>
+            <header_artist_name>Nombre del artista</header_artist_name>
+            <header_art_form>Forma de arte</header_art_form>
+            <header_year>Año</header_year>
+            <header_price>Precio</header_price>
+            <header_sold>¿Se ha vendido?</header_sold>
+            <insert_artist>Insertar artista</insert_artist>
+            <update_artist>Actualizar artista</update_artist>
+            <delete_artist>Borrar artista</delete_artist>
+            <search_bttn>Buscar obra de arte por título</search_bttn>
+            <filter_bttn>Filtrar obras de arte</filter_bttn>
+            <sort_bttn>Ordenar obras de arte por año</sort_bttn>
+            <insert_art_piece>Insertar obra de arte</insert_art_piece>
+            <update_art_piece>Actualizar obra de arte</update_art_piece>
+            <delete_art_piece>Borrar obra de arte</delete_art_piece>
+            <delete_art_piece>Vender obra de arte</delete_art_piece>
+            <export_label>Exportar lista de obras de arte como:</export_label>
+            <create_graoh_label>Crear gráfico utilizando:</create_graoh_label>
+            <show_bttn>Mostrar</show_bttn>
+            <artist_id>Artist Id</artist_id>
+        </spanish>
+    </employee>
+
+
+
+
+    <administrator>
+        <english>
+            <window_title>Administrator</window_title>
+            <header_id>Id</header_id>
+            <header_title>Title</header_title>
+            <header_artist_name>Artist Name</header_artist_name>
+            <header_art_form>Art Form</header_art_form>
+            <header_year>Year</header_year>
+            <header_price>Price</header_price>
+            <search_bttn>Search Art Piece By Title</search_bttn>
+            <show_bttn>Show All Art Pieces</show_bttn>
+            <sort_bttn>Sort Art Pieces By Year</sort_bttn>
+            <filter_bttn>Filter Art Pieces</filter_bttn>
+            <header_email>Email</header_email>
+            <header_password>Password</header_password>
+            <header_phone>Phone</header_phone>
+            <header_address>Address</header_address>
+            <header_type>Type</header_type>
+            <header_enabled>Enabled</header_enabled>
+            <user_type>User Type</user_type>
+            <is_enabled>Is Enabled</is_enabled>
+            <view_user>View Users</view_user>
+            <add_user>Add User</add_user>
+            <update_user>Update User</update_user>
+            <delete_user>Delete User</delete_user>
+        </english>
+
+        <french>
+            <window_title>Administrateur</window_title>
+            <header_id>Id</header_id>
+            <header_title>Titre</header_title>
+            <header_artist_name>Nom de l'artiste</header_artist_name>
+            <header_art_form>Forme d'art</header_art_form>
+            <header_year>Année</header_year>
+            <header_price>Prix</header_price>
+            <search_bttn>Rechercher une œuvre d'art par titre</search_bttn>
+            <show_bttn>Afficher toutes les œuvres d'art</show_bttn>
+            <sort_bttn>Trier les œuvres d'art par année</sort_bttn>
+            <filter_bttn>Filtrer les œuvres d'art</filter_bttn>
+            <header_email>Email</header_email>
+            <header_password>Mot de passe</header_password>
+            <header_phone>Téléphone</header_phone>
+            <header_address>Adresse</header_address>
+            <header_type>Type</header_type>
+            <header_enabled>Activé</header_enabled>
+            <user_type>Type d'utilisateur</user_type>
+            <is_enabled>Est activé</is_enabled>
+            <view_user>Voir les utilisateurs</view_user>
+            <add_user>Ajouter un utilisateur</add_user>
+            <update_user>Mettre à jour l'utilisateur</update_user>
+            <delete_user>Supprimer l'utilisateur</delete_user>
+        </french>
+
+        <spanish>
+            <window_title>Administrador</window_title>
+            <header_id>Id</header_id>
+            <header_title>Título</header_title>
+            <header_artist_name>Nombre del Artista</header_artist_name>
+            <header_art_form>Forma de Arte</header_art_form>
+            <header_year>Año</header_year>
+            <header_price>Precio</header_price>
+            <search_bttn>Buscar Obra de Arte por Título</search_bttn>
+            <show_bttn>Mostrar Todas las Obras de Arte</show_bttn>
+            <sort_bttn>Ordenar Obras de Arte por Año</sort_bttn>
+            <filter_bttn>Filtrar Obras de Arte</filter_bttn>
+            <header_email>Email</header_email>
+            <header_password>Contraseña</header_password>
+            <header_phone>Teléfono</header_phone>
+            <header_address>Dirección</header_address>
+            <header_type>Tipo</header_type>
+            <header_enabled>Habilitado</header_enabled>
+            <user_type>Tipo de Usuario</user_type>
+            <is_enabled>Está Habilitado</is_enabled>
+            <view_user>Ver Usuarios</view_user>
+            <add_user>Añadir Usuario</add_user>
+            <update_user>Actualizar Usuario</update_user>
+            <delete_user>Eliminar Usuario</delete_user>
+        </spanish>
+    </administrator>
+
+
+
+
+    <sign_up>
+        <english>
+            <window_title>Sign Up</window_title>
+            <header_email>Email</header_email>
+            <header_password>Password</header_password>
+            <header_phone>Phone</header_phone>
+            <header_address>Address</header_address>
+            <sign_up_as>Sign Up As</sign_up_as>
+            <create_account>Create Account</create_account>
+            <employee>Employee</employee>
+            <administrator>Administrator</administrator>
+        </english>
+
+        <french>
+            <window_title>Sign Up</window_title>
+            <header_email>Email</header_email>
+            <header_password>Mot de passe</header_password>
+            <header_phone>Téléphone</header_phone>
+            <header_address>Adresse</header_address>
+            <sign_up_as>S'inscrire en tant que</sign_up_as>
+            <create_account>Créer un compte</create_account>
+            <employee>Employé</employee>
+            <administrator>Administrateur</administrator>
+        </french>
+
+        <spanish>
+            <window_title>Registrarse</window_title>
+            <header_email>Correo Electrónico</header_email>
+            <header_password>Contraseña</header_password>
+            <header_phone>Teléfono</header_phone>
+            <header_address>Dirección</header_address>
+            <sign_up_as>Registrarse como</sign_up_as>
+            <create_account>Crear Cuenta</create_account>
+            <employee>Empleado</employee>
+            <administrator>Administrador</administrator>
+        </spanish>
+    </sign_up>
+
+
+
+
+    <log_in>
+        <english>
+            <window_title>Log In</window_title>
+            <header_email>Email</header_email>
+            <header_password>Password</header_password>
+        </english>
+
+        <french>
+            <window_title>Se connecter</window_title>
+            <header_email>Email</header_email>
+            <header_password>Mot de passe</header_password>
+        </french>
+
+        <spanish>
+            <window_title>Iniciar Sesión</window_title>
+            <header_email>Correo Electrónico</header_email>
+            <header_password>Contraseña</header_password>
+        </spanish>
+    </log_in>
+
+</page>

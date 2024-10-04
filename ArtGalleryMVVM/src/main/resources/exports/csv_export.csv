@@ -1,0 +1,5 @@
+Id,Title,Artist Id,Artist Name,Art Form,Year,Price,Is Sold
+1,The Creation of Adam,1,Michelangelo,PAINTING,1512,2300000.0,false
+5,The Transfiguration,5,Raphael,PAINTING,1520,880000.0,false
+6,David,1,Michelangelo,SCULPTURE,1531,76500.0,false
+7,Sistine Chapel,1,Michelangelo,PAINTING,1490,310984.0,true
